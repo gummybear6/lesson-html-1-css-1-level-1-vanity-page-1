@@ -22,6 +22,9 @@
   3. [ ] google
 
 ### Project details
-  1. Project name: 
-  2. Project summary:
+  1. Project name: pokemon
+  2. Project summary: 
+    1. im making pictures of pokemon
+    2. 6 pokemon total
+    3. pikacchu
   3. Project coordinator: 
