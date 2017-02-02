@@ -5,8 +5,8 @@
 **HTML**
  1. [x] html tags
  2. [x] head tags
- 3. [ ] body tags
- 4. [ ] h & p tags
+ 3. [x] body tags
+ 4. [x] h & p tags
  5. [ ] indentation
 
 **CSS**
