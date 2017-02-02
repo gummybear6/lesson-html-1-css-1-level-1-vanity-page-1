@@ -4,7 +4,7 @@
 
 **HTML**
  1. [x] html tags
- 2. [ ] head tags
+ 2. [x] head tags
  3. [ ] body tags
  4. [ ] h & p tags
  5. [ ] indentation
@@ -13,8 +13,7 @@
   1. [ ] bg color
   2. [ ] text align
   3. [ ] font color
-  4. [ ]
-  5. [ ] px
+  4. [ ] px
  font size
 **Dev Tools**
   1. [ ] code editors & IDEs
